@@ -25,7 +25,9 @@ Our experiments demonstrate that our proposed framework yields better perceptual
   <img src="assets/Entropymodel.png" alt="Entropy Model" width="630"/>
 </p>
 
-### 📖 Citation
+---
+
+##  Citation
 
 ```bibtex
 @inproceedings{khoshkhatinat2024laplacian,
