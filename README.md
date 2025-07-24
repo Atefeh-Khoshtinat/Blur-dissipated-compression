@@ -1,7 +1,10 @@
 # Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis
 Pytorch implementation of the paper "Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis". Accepted by CVPR2024.
 
-##Abstract
+---
+
+## Abstract
+
 While replacing Gaussian decoders with a conditional
 diffusion model enhances the perceptual quality of reconstructions in neural image compression, their lack of inductive bias for image data restricts their ability to achieve state-of-the-art perceptual levels. To address this limitation, we adopt a non-isotropic diffusion model at the decoder side. This model imposes an inductive bias aimed
 at distinguishing between frequency contents, thereby facilitating the generation of high-quality images. Moreover,
