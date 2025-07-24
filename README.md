@@ -18,7 +18,11 @@ Our experiments demonstrate that our proposed framework yields better perceptual
 ![Architecture](assets/Architecture.png)
 
  The proposed entropy model:
+
+ <p align="center">
+  <img src="assets/Entropymodel.png" alt="Entropy Model" width="630"/>
+</p>
  
- <img src="assets/Entropymodel.png" alt="Entropy Model" width="600"/>
+
 
 
