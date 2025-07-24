@@ -10,3 +10,9 @@ diffusion model enhances the perceptual quality of reconstructions in neural ima
 at distinguishing between frequency contents, thereby facilitating the generation of high-quality images. Moreover,
 our framework is equipped with a novel entropy model that accurately models the probability distribution of latent representation by exploiting spatio-channel correlations in latent space, while accelerating the entropy decoding step. This channel-wise entropy model leverages both local and global spatial contexts within each channel chunk. The global spatial context is built upon the Transformer, which is specifically designed for image compression tasks. The designed Transformer employs a Laplacianshaped positional encoding, the learnable parameters of which are adaptively adjusted for each channel cluster.
 Our experiments demonstrate that our proposed framework yields better perceptual quality compared to cuttingedge generative-based codecs, and the proposed entropy model contributes to notable bitrate savings.
+
+
+## Architecture
+
+The overall framework:
+![Architecture](assets/Architecture.png)
