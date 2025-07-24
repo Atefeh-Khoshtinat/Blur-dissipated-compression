@@ -29,10 +29,11 @@ Our experiments demonstrate that our proposed framework yields better perceptual
 
 ##  Citation
 
-```bibtex
+```
 @inproceedings{khoshkhatinat2024laplacian,
-  title={Laplacian-guided entropy model in neural codec with blur-dissipated synthesis},
-  author={Khoshkhatinat, Atefeh and Zafari, Ali and Mehta, Piyush M and Nasrabadi, Nasser M},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2024}
+  title     = {Laplacian-guided entropy model in neural codec with blur-dissipated synthesis},
+  author    = {Khoshkhatinat, Atefeh and Zafari, Ali and Mehta, Piyush M and Nasrabadi, Nasser M},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year      = {2024}
 }
+```
