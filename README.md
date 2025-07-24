@@ -14,5 +14,8 @@ Our experiments demonstrate that our proposed framework yields better perceptual
 
 ## Architecture
 
-The overall framework:
+ The overall framework:
 ![Architecture](assets/Architecture.png)
+
+ The proposed entropy model:
+![Entropy Model](assets/Entropymodel.png)
