@@ -18,4 +18,5 @@ Our experiments demonstrate that our proposed framework yields better perceptual
 ![Architecture](assets/Architecture.png)
 
  The proposed entropy model:
-![Entropy Model](assets/Entropymodel.png)
+ [<img src="assets/Entropymodel" width="300"/>](assets/Entropymodel.png)
+
